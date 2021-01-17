@@ -1,0 +1,6 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/src/CleanArchitecture.NET/obj
+/src/CleanArchitecture.NET/bin/Debug/netstandard2.0
